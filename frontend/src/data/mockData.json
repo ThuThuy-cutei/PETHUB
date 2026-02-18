@@ -1,0 +1,19 @@
+{
+  "nhanVien": [],
+  "khachHang": [],
+  "thuCung": [],
+  "loaiPhong": [],
+  "phong": [],
+  "dichVu": [],
+  "datPhong": [],
+  "hoaDon": [],
+  "chiTietDichVu": [],
+  "taiKhoan": [],
+  "capNhatThuCung": [],
+  "dashboardStats": {
+    "phong": { "tongPhong": 0, "phongTrong": 0, "phongDaDat": 0, "phongDangDung": 0, "phongBaoTri": 0, "tiLeSuDung": 0 },
+    "datPhong": [],
+    "doanhThu": { "TONG_HD": 0, "DOANH_THU": 0, "CHUA_THU": 0 },
+    "thuCung": []
+  }
+}

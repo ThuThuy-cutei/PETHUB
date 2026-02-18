@@ -1,0 +1,12 @@
+{
+  "name": "pethub",
+  "version": "1.0.0",
+  "description": "Pet Hotel Management System - PetHub",
+  "scripts": {
+    "start": "node start.js",
+    "setup-db": "cd backend && node setup-database.js",
+    "backend": "cd backend && node src/server.js",
+    "frontend": "cd frontend && npx next dev",
+    "install-all": "cd backend && npm install && cd ../frontend && npm install"
+  }
+}
