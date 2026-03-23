@@ -1,9 +1,14 @@
-# 🐾 PetHub - Hệ thống Quản lý Khách sạn Thú cưng
+# Pet Hotel Management System
 
-## Tổng quan
-Hệ thống Web Fullstack quản lý khách sạn thú cưng, tích hợp Oracle Database.
+## 📌 Overview
+A fullstack web application for managing pet hotel services including booking, pet care, and customer management.
 
-## Cấu trúc dự án
+## 🛠️ Technologies
+- Frontend: Next.js + Tailwind CSS
+- Backend: Node.js (Express)
+- Database: Oracle
+
+## 🏗️ Project Structure
 
 ```
 PetHub/
@@ -148,3 +153,18 @@ const USE_MOCK = false; // Chuyển từ true -> false
 | GET | `/api/hoa-don` | Danh sách hóa đơn |
 | POST | `/api/hoa-don` | Tạo hóa đơn (SP_TINH_TONG_TIEN_HOA_DON) |
 | PUT | `/api/hoa-don/:id/thanh-toan` | Thanh toán |
+
+## 👥 Team Project
+Developed collaboratively with my teammate.
+
+## 👤 My Responsibilities
+- Performed manual testing
+- Designed test cases
+- Reported bugs
+- Verified bug fixes
+
+## 🧪 Testing
+Testing documents are included:
+- TestCase_PetHub.xlsx
+- BugReport_PetHub.xlsx
+- TestScenario.txt
